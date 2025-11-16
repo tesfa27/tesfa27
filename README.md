@@ -35,15 +35,15 @@ I enjoy exploring modern DevOps tools, cloud platforms, and ways to improve deve
 ---
 
 ## 📊 GitHub Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=Tesfal27&show_icons=true&hide_border=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=tesfa27&show_icons=true&hide_border=true&theme=transparent)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tesfal27&layout=compact&hide_border=true&theme=transparent)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa27&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
 ## 🌍 Find Me
 **LinkedIn:** https://www.linkedin.com/in/tesfal27  
-**GitHub:** https://github.com/Tesfal27  
+**GitHub:** https://github.com/tesfa27  
 
 ---
 
