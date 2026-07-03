@@ -41,9 +41,9 @@ I enjoy exploring modern DevOps tools, cloud platforms, and ways to improve deve
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tesfa27/tesfa27/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Stats](https://github-readme-stats-c67pbq3j6-tesfalidet-markos-projects.vercel.app/api?username=tesfa27&show_icons=true&hide_border=true&theme=transparent)
+![Stats](https://github-readme-stats-tesfalidet-markos-projects.vercel.app/api?username=tesfa27&show_icons=true&hide_border=true&theme=transparent)
 
-![Languages](https://github-readme-stats-c67pbq3j6-tesfalidet-markos-projects.vercel.app/api/top-langs?username=tesfa27&layout=compact&hide_border=true&theme=transparent)
+![Languages](https://github-readme-stats-tesfalidet-markos-projects.vercel.app/api/top-langs?username=tesfa27&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
