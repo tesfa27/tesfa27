@@ -114,12 +114,7 @@ Two production company sites with **custom admin panels** so non-technical staff
 ### 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tesfa27&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa27&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages"/>
-  <br/>
   <img src="https://streak-stats.demolab.com?user=tesfa27&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tesfa27&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
 </div>
 
 ### 🤝 Let's connect
