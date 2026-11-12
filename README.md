@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Tesfalidet%20Markos&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Secure%20Systems%20%E2%80%A2%20DevOps&descAlignY=58&descSize=16" width="100%" alt="Tesfalidet Markos banner"/>
 
 <a href="https://tesfalidet.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=I+build+secure+full-stack+apps+for+national+infrastructure;Django+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Docker%2C+CI%2FCD+and+observability+that+catches+outages+first;I+also+design+tasks+that+train+AI+coding+agents" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-stack+engineer+building+secure+web+apps;Django+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Docker%2C+CI%2FCD+and+observability;Designing+tasks+that+train+AI+coding+agents" alt="Typing intro"/>
 </a>
 
 <p>
@@ -21,22 +21,21 @@
 
 ### 👋 About me
 
-I'm a full-stack software engineer at **INSA (Information Network Security Administration)** in Ethiopia, where I build and run secure Django + React applications, including the national **Ethio-CERT** cybersecurity portal. I care about the whole path a change takes: database schema → API → UI → container → production → alerts.
+I'm a full-stack software engineer who builds secure, production-ready web applications end to end, from database schema and REST APIs to React frontends, containers, CI/CD and monitoring. I care about the whole path a change takes: schema → API → UI → container → production → alerts.
 
 ```yaml
 currently:
-  - role: Application Software Developer @ INSA          # Aug 2024 – now
+  - role: Application Software Developer          # Aug 2024 – now
   - role: Software Engineering Task Author @ AfterQuery   # designing tasks + tests that evaluate AI coding agents
 focus:      [secure web apps, multi-tenant SaaS, DevOps, observability, testing]
 education:  B.Sc. Electrical & Computer Engineering, Hawassa University (GPA 3.77/4.00)
 open_to:    full-stack / backend / platform roles (remote-friendly)
 ```
 
-### 📈 Impact in production
+### ⚡ What I bring
 
 | | |
 |---|---|
-| 🛡️ **1,000+ security incidents** | handled through the Ethio-CERT portal's intake and tracking system I helped build |
 | ⚡ **30 min → < 5 min deploys** | after containerizing services with Docker and building CI/CD pipelines |
 | 🔔 **Alerts within 2 minutes** | via a self-hosted Prometheus · Grafana · Loki · Alertmanager · Sentry · Uptime Kuma stack with Telegram alerting across 5 services |
 | 🔒 **5 services, one audited entry point** | hardened Linux + NGINX reverse proxy, TLS termination, HTTPS end to end |
@@ -70,14 +69,6 @@ Secure REST API with **Zod validation, Arcjet rate limiting and bot protection**
 Real-time collaborative study platform with **live session sync over WebSockets**.
 
 `Django Channels` `React` `WebSockets` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌐 WiseTech & TechForth Solutions
-Two production company sites with **custom admin panels** so non-technical staff manage content and client submissions without a developer.
-
-`Next.js` `Prisma` `TypeScript` `Tailwind CSS`
 
 </td>
 </tr>
