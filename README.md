@@ -13,41 +13,32 @@
   <img src="https://img.shields.io/badge/Addis%20Ababa-UTC%2B3-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=tesfa27&style=flat-square&color=0ea5e9&label=profile+views" alt="Profile views"/>
-
 </div>
 
 ---
 
-### 👋 About me
+### About me
 
 I'm a full-stack software engineer who builds secure, production-ready web applications end to end, from database schema and REST APIs to React frontends, containers, CI/CD and monitoring. I care about the whole path a change takes: schema → API → UI → container → production → alerts.
 
-```yaml
-currently:
-  - role: Application Software Developer          # Aug 2024 – now
-  - role: Software Engineering Task Author @ AfterQuery   # designing tasks + tests that evaluate AI coding agents
-focus:      [secure web apps, multi-tenant SaaS, DevOps, observability, testing]
-education:  B.Sc. Electrical & Computer Engineering, Hawassa University (GPA 3.77/4.00)
-open_to:    full-stack / backend / platform roles (remote-friendly)
-```
+Right now I work as an Application Software Developer and, part-time, write coding tasks that evaluate AI agents for AfterQuery. I'm open to full-stack, backend and platform roles.
 
-### ⚡ What I bring
+### What I bring
 
 | | |
 |---|---|
-| ⚡ **30 min → < 5 min deploys** | after containerizing services with Docker and building CI/CD pipelines |
-| 🔔 **Alerts within 2 minutes** | via a self-hosted Prometheus · Grafana · Loki · Alertmanager · Sentry · Uptime Kuma stack with Telegram alerting across 5 services |
-| 🔒 **5 services, one audited entry point** | hardened Linux + NGINX reverse proxy, TLS termination, HTTPS end to end |
-| ✅ **Tested end to end** | unit, integration and Playwright E2E tests shipped alongside features |
+| **30 min → < 5 min deploys** | after containerizing services with Docker and building CI/CD pipelines |
+| **Alerts within 2 minutes** | via a self-hosted Prometheus · Grafana · Loki · Alertmanager · Sentry · Uptime Kuma stack with Telegram alerting across 5 services |
+| **5 services, one audited entry point** | hardened Linux + NGINX reverse proxy, TLS termination, HTTPS end to end |
+| **Tested end to end** | unit, integration and Playwright E2E tests shipped alongside features |
 
-### 🚀 Featured projects
+### Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏢 [Multi-Tenant SaaS Boilerplate](https://github.com/tesfa27/multi-tenant-saas)
+#### [Multi-Tenant SaaS Boilerplate](https://github.com/tesfa27/multi-tenant-saas)
 Production-ready starter with **tenant isolation, RBAC and passwordless auth**. Takes a new project from an empty repo to working multi-tenant auth in **under 10 minutes**.
 
 `Next.js 15` `Prisma` `PostgreSQL` `Google OAuth` `TypeScript`
@@ -55,7 +46,7 @@ Production-ready starter with **tenant isolation, RBAC and passwordless auth**. 
 </td>
 <td width="50%" valign="top">
 
-#### 🔐 [Acquisitions API](https://github.com/tesfa27/acquisitions)
+#### [Acquisitions API](https://github.com/tesfa27/acquisitions)
 Secure REST API with **Zod validation, Arcjet rate limiting and bot protection**, and CI/CD deploying to a **Kubernetes** (Minikube) cluster.
 
 `Node.js` `Express` `Neon Postgres` `Drizzle` `Docker` `K8s`
@@ -65,7 +56,7 @@ Secure REST API with **Zod validation, Arcjet rate limiting and bot protection**
 <tr>
 <td width="50%" valign="top">
 
-#### 📚 [Virtual Study Room](https://github.com/tesfa27/virtual-study-room)
+#### [Virtual Study Room](https://github.com/tesfa27/virtual-study-room)
 Real-time collaborative study platform with **live session sync over WebSockets**.
 
 `Django Channels` `React` `WebSockets` `TypeScript`
@@ -74,19 +65,10 @@ Real-time collaborative study platform with **live session sync over WebSockets*
 </tr>
 </table>
 
-### 🛠️ Tech stack
+### Tech stack
 
 <p align="center">
-  <b>Languages & frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,django,nodejs,express,tailwind&perline=9" alt="Languages and frameworks"/>
-</p>
-<p align="center">
-  <b>Data</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&perline=9" alt="Databases"/>
-</p>
-<p align="center">
-  <b>DevOps, testing & observability</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,gitlab,git,prometheus,grafana,vitest,pytest&perline=11" alt="DevOps and tooling"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,django,nodejs,postgres,docker,kubernetes,linux,nginx,grafana&perline=12" alt="Languages and frameworks"/>
 </p>
 
 <details>
@@ -102,13 +84,13 @@ Real-time collaborative study platform with **live session sync over WebSockets*
 
 </details>
 
-### 📊 GitHub activity
+### GitHub activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tesfa27&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
-### 🤝 Let's connect
+### Let's connect
 
 I'm happy to talk about secure web platforms, DevOps pipelines, observability, or building realistic evaluations for AI coding agents.
 **Best way to reach me:** [LinkedIn](https://www.linkedin.com/in/tesfal27) · [Email](mailto:tesfamarkos29@gmail.com) · [Portfolio](https://tesfalidet.vercel.app)
