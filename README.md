@@ -1,55 +1,130 @@
-# Hi, I'm Tesfalidet 👋
+<div align="center">
 
-**Full-Stack Developer • DevOps Enthusiast**  
-Django | MERN | Next.js | Docker | Cloud Automation | Secure & Scalable Apps
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Tesfalidet%20Markos&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Secure%20Systems%20%E2%80%A2%20DevOps&descAlignY=58&descSize=16" width="100%" alt="Tesfalidet Markos banner"/>
 
----
+<a href="https://tesfalidet.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=I+build+secure+full-stack+apps+for+national+infrastructure;Django+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Docker%2C+CI%2FCD+and+observability+that+catches+outages+first;I+also+design+tasks+that+train+AI+coding+agents" alt="Typing intro"/>
+</a>
 
-## 👨‍💻 About Me
-I'm a full-stack developer focused on building **secure, scalable, and maintainable** applications.
-
-I work with **Django**, **React**, **Next.js**, and the **MERN stack**, creating systems that balance performance with real-world usability.
-
-On the DevOps side, I automate workflows, containerize applications with **Docker**, and simplify deployment pipelines.  
-Security is core to my approach — clean architecture, safe data handling, and strong authentication.
-
-I enjoy exploring modern DevOps tools, cloud platforms, and ways to improve developer experience.
-
----
-
-## 🛠 Tech Stack
-
-**Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind  
-**Backend:** Django, DRF, Node.js, Express, MERN  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**DevOps:** Docker, CI/CD, Linux, NGINX  
-**Security:** Secure API Development, Authentication, Access Control  
-
----
-
-## 🔧 Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=django,python,react,nextjs,nodejs,express,ts,js,tailwind,mongodb,postgres,mysql,docker,linux,git,github,nginx" />
+  <a href="https://tesfalidet.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/tesfal27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:tesfamarkos29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Addis%20Ababa-UTC%2B3-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=tesfa27&style=flat-square&color=0ea5e9&label=profile+views" alt="Profile views"/>
 
-## 📊 GitHub Overview
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tesfa27/tesfa27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tesfa27/tesfa27/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tesfa27/tesfa27/output/github-contribution-grid-snake.svg">
-</picture>
-
-![Stats](https://github-readme-stats-tesfalidet-markos-projects.vercel.app/api?username=tesfa27&show_icons=true&hide_border=true&theme=transparent)
-
-![Languages](https://github-readme-stats-tesfalidet-markos-projects.vercel.app/api/top-langs?username=tesfa27&layout=compact&hide_border=true&theme=transparent)
+</div>
 
 ---
 
-## 🌍 Find Me
-**LinkedIn:** https://www.linkedin.com/in/tesfal27  
-**GitHub:** https://github.com/tesfa27  
+### 👋 About me
 
----
+I'm a full-stack software engineer at **INSA (Information Network Security Administration)** in Ethiopia, where I build and run secure Django + React applications, including the national **Ethio-CERT** cybersecurity portal. I care about the whole path a change takes: database schema → API → UI → container → production → alerts.
 
+```yaml
+currently:
+  - role: Application Software Developer @ INSA          # Aug 2024 – now
+  - role: Software Engineering Task Author @ AfterQuery   # designing tasks + tests that evaluate AI coding agents
+focus:      [secure web apps, multi-tenant SaaS, DevOps, observability, testing]
+education:  B.Sc. Electrical & Computer Engineering, Hawassa University (GPA 3.77/4.00)
+open_to:    full-stack / backend / platform roles (remote-friendly)
+```
+
+### 📈 Impact in production
+
+| | |
+|---|---|
+| 🛡️ **1,000+ security incidents** | handled through the Ethio-CERT portal's intake and tracking system I helped build |
+| ⚡ **30 min → < 5 min deploys** | after containerizing services with Docker and building CI/CD pipelines |
+| 🔔 **Alerts within 2 minutes** | via a self-hosted Prometheus · Grafana · Loki · Alertmanager · Sentry · Uptime Kuma stack with Telegram alerting across 5 services |
+| 🔒 **5 services, one audited entry point** | hardened Linux + NGINX reverse proxy, TLS termination, HTTPS end to end |
+| ✅ **Tested end to end** | unit, integration and Playwright E2E tests shipped alongside features |
+
+### 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏢 [Multi-Tenant SaaS Boilerplate](https://github.com/tesfa27/multi-tenant-saas)
+Production-ready starter with **tenant isolation, RBAC and passwordless auth**. Takes a new project from an empty repo to working multi-tenant auth in **under 10 minutes**.
+
+`Next.js 15` `Prisma` `PostgreSQL` `Google OAuth` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔐 [Acquisitions API](https://github.com/tesfa27/acquisitions)
+Secure REST API with **Zod validation, Arcjet rate limiting and bot protection**, and CI/CD deploying to a **Kubernetes** (Minikube) cluster.
+
+`Node.js` `Express` `Neon Postgres` `Drizzle` `Docker` `K8s`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📚 [Virtual Study Room](https://github.com/tesfa27/virtual-study-room)
+Real-time collaborative study platform with **live session sync over WebSockets**.
+
+`Django Channels` `React` `WebSockets` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 WiseTech & TechForth Solutions
+Two production company sites with **custom admin panels** so non-technical staff manage content and client submissions without a developer.
+
+`Next.js` `Prisma` `TypeScript` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <b>Languages & frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,django,nodejs,express,tailwind&perline=9" alt="Languages and frameworks"/>
+</p>
+<p align="center">
+  <b>Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&perline=9" alt="Databases"/>
+</p>
+<p align="center">
+  <b>DevOps, testing & observability</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,gitlab,git,prometheus,grafana,vitest,pytest&perline=11" alt="DevOps and tooling"/>
+</p>
+
+<details>
+<summary><b>Full list</b></summary>
+
+- **Languages & frameworks:** JavaScript, TypeScript, Python, React, Next.js, Django, Django REST Framework, Node.js, Express
+- **Databases & ORMs:** PostgreSQL, MongoDB, MySQL, Prisma, Drizzle
+- **DevOps & infra:** Docker, CI/CD, Linux, NGINX, Git, GitHub, GitLab, Kubernetes fundamentals (Minikube)
+- **Testing:** pytest, Vitest, Playwright — unit / integration / end-to-end
+- **Security & auth:** REST API design, OAuth 2.0, RBAC, JWT, secure application architecture
+- **Observability:** Prometheus, Grafana, Loki, Alertmanager, Sentry, Uptime Kuma
+- **AI evaluation:** coding-task design, test-based verification, reproducible defect reporting
+
+</details>
+
+### 📊 GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tesfa27&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa27&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=tesfa27&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tesfa27&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+</div>
+
+### 🤝 Let's connect
+
+I'm happy to talk about secure web platforms, DevOps pipelines, observability, or building realistic evaluations for AI coding agents.
+**Best way to reach me:** [LinkedIn](https://www.linkedin.com/in/tesfal27) · [Email](mailto:tesfamarkos29@gmail.com) · [Portfolio](https://tesfalidet.vercel.app)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
